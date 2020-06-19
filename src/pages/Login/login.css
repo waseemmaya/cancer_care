@@ -1,0 +1,43 @@
+.Login {
+  text-align: center;
+}
+
+.logo {
+  width: 350px;
+  margin-top: 50px;
+}
+
+.sign_in_heading {
+  font-size: 20px;
+}
+
+.LoginForm {
+  border: 1px solid rgb(230, 230, 230);
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 10px 10px 45px 10px;
+}
+
+.login_btn_div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.login_btn {
+  width: 150px;
+}
+
+.account_link {
+  padding-left: 5px;
+  margin-top: 15px;
+  font-size: 14px;
+  float: left;
+}
+
+.forget_link {
+  padding-right: 5px;
+  margin-top: 15px;
+  font-size: 14px;
+  float: right;
+}

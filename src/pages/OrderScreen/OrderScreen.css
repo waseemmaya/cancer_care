@@ -1,0 +1,39 @@
+.link_name {
+  padding-left: 20px;
+  margin-top: 0px;
+}
+
+.link {
+  padding-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.table_head {
+  background-color: #3f51b5;
+}
+
+.table_cell {
+  color: white !important;
+}
+
+.orders_table {
+  margin-top: 80px;
+}
+
+.table2 {
+  margin-top: 50px;
+}
+
+.nav_links {
+  height: 100%;
+}
+
+.link_section {
+  margin-top: 40px;
+}
+
+.table_title {
+  font-weight: bold;
+  margin-left: 10px;
+}
